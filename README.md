@@ -1,5 +1,2 @@
-# singularity-cookbook
-Recipes for Singularity containers
-
-## Containers
-```ubuntu-precise-texlive-full``` is an Ubuntu 12.04 container with texlive-full installed.
+# ubuntu-artful-jupyter
+A recipe for a Singularity container that uses Ubuntu Artful Aardvark to run Jupyter.
