@@ -8,3 +8,8 @@ Build the container with something like ```singularity build jupyter-artful.img 
 Run ```singularity exec jupyter-artful.img jupyter notebook```
 
 Visit the URL that is returned
+
+## The Quicker Way
+Run ```singularity run jupyter-artful.img```
+
+Browse to the URL that is returned
