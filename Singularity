@@ -5,4 +5,4 @@ From: ubuntu:artful
     jupyter notebook
 
 %post
-    apt-get -y update && apt-get -y install python3 python3-pip texlive-xetex && pip3 install jupyter && pip3 install --upgrade pip
+    apt-get -y update && apt-get -y install python3 python3-pip texlive-xetex default-jre && pip3 install jupyter && pip3 install --upgrade pip
